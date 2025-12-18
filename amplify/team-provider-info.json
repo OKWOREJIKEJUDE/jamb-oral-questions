@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-jamboralquestion-dev-c127e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::905418093133:role/amplify-jamboralquestion-dev-c127e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::905418093133:role/amplify-jamboralquestion-dev-c127e-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-jamboralquestion-dev-c127e-deployment",
+      "UnauthRoleName": "amplify-jamboralquestion-dev-c127e-unauthRole",
+      "StackName": "amplify-jamboralquestion-dev-c127e",
+      "StackId": "arn:aws:cloudformation:us-east-1:905418093133:stack/amplify-jamboralquestion-dev-c127e/26ba0000-dc00-11f0-9381-0e77fcf7fb65",
+      "AmplifyAppId": "dkjv09m4xob80"
+    },
+    "categories": {
+      "auth": {
+        "jamboralquestion488c9f83": {}
+      }
+    }
+  }
+}
